@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test-tech-digeiz/static/css/main.e6c3194f.css",
-    "main.js": "/test-tech-digeiz/static/js/main.7b39ccba.js",
-    "static/js/787.4e05de8d.chunk.js": "/test-tech-digeiz/static/js/787.4e05de8d.chunk.js",
-    "index.html": "/test-tech-digeiz/index.html",
-    "main.e6c3194f.css.map": "/test-tech-digeiz/static/css/main.e6c3194f.css.map",
-    "main.7b39ccba.js.map": "/test-tech-digeiz/static/js/main.7b39ccba.js.map",
-    "787.4e05de8d.chunk.js.map": "/test-tech-digeiz/static/js/787.4e05de8d.chunk.js.map"
+    "main.css": "/test-digeiz/static/css/main.e6c3194f.css",
+    "main.js": "/test-digeiz/static/js/main.178ef297.js",
+    "static/js/787.4e05de8d.chunk.js": "/test-digeiz/static/js/787.4e05de8d.chunk.js",
+    "index.html": "/test-digeiz/index.html",
+    "main.e6c3194f.css.map": "/test-digeiz/static/css/main.e6c3194f.css.map",
+    "main.178ef297.js.map": "/test-digeiz/static/js/main.178ef297.js.map",
+    "787.4e05de8d.chunk.js.map": "/test-digeiz/static/js/787.4e05de8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c3194f.css",
-    "static/js/main.7b39ccba.js"
+    "static/js/main.178ef297.js"
   ]
 }
