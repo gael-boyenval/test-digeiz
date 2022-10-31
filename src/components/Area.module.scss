@@ -1,0 +1,23 @@
+.Area {
+  padding: 15px 0 100px 0;
+  overflow: visible;
+  display: block;
+  margin: 50px auto;
+  max-width: 70%;
+  max-height: 70%;
+}
+
+.Trajectory {
+  opacity: 1;
+  transition: opacity 200ms ease;
+
+  &_IsDimmed {
+    opacity: 0.1;
+  }
+
+  &_DetectionPointCoordinates {
+    font-weight: light;
+    text-transform: uppercase;
+    transition: fill 200ms ease;
+  }
+}

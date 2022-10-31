@@ -17,3 +17,22 @@ Le livrable souhaité est un repo avec ton code source, ainsi qu’un moyen simp
 
 Bonne chance !
 Julien
+
+
+## Notes pour la réalisation : 
+
+- à tester sur chrome, et sur un écran large de préférence
+- j'ai passé beaucoup plus de temps qu'initialement prévu... je me suis laissé prendre au jeu :) (environ 1.5j de boulot mis bout-à-bout)
+- j'ai choisi une approche plutôt bare-bone, avec très peu de librairies externes (à l'exclusion de D3, que je pourrais facilement suprimer, car je n'utilise qu'un utilitaire qui est loin d'être nécéssaire)
+- ça n'est toute-fois pas très représentatif de ma manière de coder
+    - pas d'historique Git
+    - pas de soin apporté l'accessibilité et à la sémantique
+    - pas de tests
+    - peu d'égard pour la performance
+- j'ai plutôt choisi de me concentrer sur le "produit" / les fonctionalités, et l'architecture du code. 
+- tips : ce n'est pas imédiatement visible, mais les IDs sont clickables pour laisser apparaitre des infos sur les trajectoires
+
+url de test : https://gael-boyenval.github.io/test-digeiz/
+
+à bientôt,
+Gaël

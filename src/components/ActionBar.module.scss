@@ -1,0 +1,53 @@
+.ActionBar {
+    position: fixed;
+    z-index: 2;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    border: solid 1px #CCC;
+    display: flex;
+    align-items: stretch;
+
+    &_DataBlock {
+        font-weight: light;
+        font-size: 20px;
+        padding: 20px;
+        border-right: solid 1px #CCC;
+    }
+
+    &_DataValue {
+        font-weight: 800;
+        display: inline-block;
+        text-align: right;
+
+        &Time {
+            width: 70px;
+        }
+
+        &Visitors {
+            width: 20px;
+        }
+    }
+
+    &_RangeWrapper {
+        padding: 20px;
+        border-right: solid 1px #CCC;
+        display: flex;
+        align-items: center;
+
+        input {
+            width: 500px;
+        }
+    }
+
+    &_PlayPauseButton {
+        display: block;
+        background: none;
+        border: none;
+        padding: 20px;
+
+        svg {
+            display: block;
+        }
+    }
+}
